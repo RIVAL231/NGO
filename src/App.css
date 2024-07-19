@@ -88,7 +88,7 @@ body {
 /* Container Component */
 
 .container-container {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), #009688), url(img1.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), #009688), url(https://happytohelp.foundation/wp-content/uploads/2016/02/2.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
